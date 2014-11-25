@@ -2,7 +2,7 @@ Crosstrack.Github.io
 ====================
 
 The CrossTrack App will allow you to save and 
-store your workout results, compare with prevous
+store your workout results, compare with previous
 results, and quickly give you a snapshot of your
-overall progess on different workouts, lifts, and
+overall progress on different workouts, lifts, and
 more.
